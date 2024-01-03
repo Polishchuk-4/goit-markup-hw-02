@@ -1,9 +1,72 @@
 body {
   font-family: "Roboto", "Arial", "Helvetica Neue", sans-serif;
   color: #434455;
-  font-weight: regular;
+  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   background: #fff;
+}
+
+a,
+ul,
+ol {
+  text-decoration: none;
+  font-style: normal;
+}
+.link {
+  font-size: 12px;
+  line-height: 1.333;
+  letter-spacing: 0.04em;
+}
+.logo {
+  font-size: 18px;
+  line-height: 1.3125;
+  font-weight: 700;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+/*-------- header --------*/
+
+.header {
+  border-bottom: 1px solid #e7e9fc;
+  background: #fff;
+}
+
+.header-navigation {
+}
+.header-logo {
+  color: #2e2f42;
+}
+.header-logo--blue {
+  color: #4d5ae5;
+}
+.header-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+/*------ не змінюється колір ------*/
+/* .header-link:hover,
+.header-link:focus {
+  color: #404bbf;
+} */
+.header-navigation .header-link {
+  color: #2e2f42;
+  font-weight: 500;
+}
+.header-address .header-link {
+  color: #434455;
+}
+/*------ змінюється колір ------*/
+.header-link:hover,
+.header-link:focus {
+  color: #404bbf;
+}
+.header-link:active {
+  padding-bottom: 20px;
+  border-bottom: 4px solid #404bbf;
 }
