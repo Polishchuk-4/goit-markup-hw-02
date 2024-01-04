@@ -37,6 +37,19 @@ ol {
   line-height: 1.0714;
   letter-spacing: 1.12px;
 }
+.title-2 {
+}
+.title-3 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+.text {
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
 .button {
   border: none;
   font: inherit;
@@ -97,4 +110,21 @@ ol {
 .first-section__title {
 }
 .first-section__button {
+}
+
+/*-------- section-1 --------*/
+.section-1 {
+}
+
+.section-1__title-2 {
+}
+.section-1__menu {
+}
+.section-1__column {
+}
+
+.section-1__title-3 {
+}
+
+.section-1__text {
 }
