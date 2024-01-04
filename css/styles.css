@@ -30,13 +30,13 @@ ol {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.title-1 {
+.title-one {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 1.12px;
 }
-.title-2 {
+.title-two {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
@@ -44,7 +44,7 @@ ol {
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
-.title-3 {
+.title-three {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -113,68 +113,68 @@ ol {
 
 /*-------- section-1 --------*/
 
-.section-1 {
+.section-one {
   text-align: center;
   background: #2e2f42;
   color: #fff;
 }
-.section-1n__title {
+.section-one__title {
 }
-.section-1__button {
+.section-one__button {
 }
 
 /*-------- section-2 --------*/
 
-.section-2 {
+.section-two {
 }
-.section-2__title-2 {
+.section-two__title-two {
 }
-.section-2__list {
+.section-two__list {
 }
-.section-2__column {
+.section-two__column {
 }
-.section-2__title-3 {
+.section-two__title-three {
 }
-.section-2__text {
+.section-two__text {
 }
 
 /*-------- section-3 --------*/
 
-.section-3 {
+.section-three {
   background: #f4f4fd;
 }
-.section-3__title-2 {
+.section-three__title-two {
 }
-.section-3__list {
+.section-three__list {
 }
-.section-3__column {
+.section-three__column {
 }
-.section-3__image {
+.section-three__image {
 }
-.section-3__title-3 {
+.section-three__title-three {
 }
-.section-3__text {
+.section-three__text {
 }
 
 /*-------- section-4 --------*/
 
-.section-4 {
+.section-four {
 }
-.section-4__title-2 {
+.section-four__title-two {
   text-align: center;
 }
-.section-4__list {
+.section-four__list {
 }
-.section-4__column {
+.section-four__column {
   border: 1px solid #e7e9fc;
   background: #fff;
 }
-.section-4__image {
+.section-four__image {
 }
-.section-4__title-3 {
+.section-four__title-three {
   text-align: left;
 }
-.section-4__text {
+.section-four__text {
   text-align: left;
 }
 
