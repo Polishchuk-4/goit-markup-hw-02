@@ -38,7 +38,6 @@ ol {
 }
 .title-2 {
   color: #2e2f42;
-  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.111;
@@ -151,4 +150,26 @@ ol {
 .section-2__title-3 {
 }
 .section-2__text {
+}
+
+/*-------- section-3 --------*/
+
+.section-3 {
+}
+.section-3__title-2 {
+  text-align: center;
+}
+.section-3__list {
+}
+.section-3__column {
+  border: 1px solid #e7e9fc;
+  background: #fff;
+}
+.section-3__image {
+}
+.section-3__title-3 {
+  text-align: left;
+}
+.section-3__text {
+  text-align: left;
 }
