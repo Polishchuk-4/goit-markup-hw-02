@@ -141,13 +141,16 @@ ol {
 /*-------- section-3 --------*/
 
 .section-three {
+  background: #f4f4fd;
+  text-align: center;
 }
 .section-three__title-two {
 }
 .section-three__list {
-  background: #f4f4fd;
+  background: #fff;
 }
 .section-three__column {
+  text-align: center;
 }
 .section-three__image {
 }
