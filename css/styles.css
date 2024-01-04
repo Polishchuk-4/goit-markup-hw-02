@@ -104,45 +104,27 @@ ol {
 .main {
 }
 
-/*-------- first-section --------*/
+/*-------- section-1 --------*/
 
-.first-section {
+.section-1 {
   text-align: center;
   background: #2e2f42;
   color: #fff;
 }
-.first-section__title {
+.section-1n__title {
 }
-.first-section__button {
-}
-
-/*-------- section-1 --------*/
-
-.section-1 {
-}
-.section-1__title-2 {
-}
-.section-1__list {
-}
-.section-1__column {
-}
-.section-1__title-3 {
-}
-.section-1__text {
+.section-1__button {
 }
 
 /*-------- section-2 --------*/
 
 .section-2 {
-  background: #f4f4fd;
 }
 .section-2__title-2 {
 }
 .section-2__list {
 }
 .section-2__column {
-}
-.section-2__image {
 }
 .section-2__title-3 {
 }
@@ -152,22 +134,40 @@ ol {
 /*-------- section-3 --------*/
 
 .section-3 {
+  background: #f4f4fd;
 }
 .section-3__title-2 {
-  text-align: center;
 }
 .section-3__list {
 }
 .section-3__column {
-  border: 1px solid #e7e9fc;
-  background: #fff;
 }
 .section-3__image {
 }
 .section-3__title-3 {
-  text-align: left;
 }
 .section-3__text {
+}
+
+/*-------- section-4 --------*/
+
+.section-4 {
+}
+.section-4__title-2 {
+  text-align: center;
+}
+.section-4__list {
+}
+.section-4__column {
+  border: 1px solid #e7e9fc;
+  background: #fff;
+}
+.section-4__image {
+}
+.section-4__title-3 {
+  text-align: left;
+}
+.section-4__text {
   text-align: left;
 }
 
