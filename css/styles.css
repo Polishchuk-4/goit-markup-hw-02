@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", "Arial", "Helvetica Neue", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   font-weight: 400;
   font-size: 16px;
@@ -58,15 +58,12 @@ ol {
   border: none;
   font: inherit;
   color: inherit;
-  border-radius: 4px;
   background: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 /*-------- header --------*/
 
 .header {
-  border-bottom: 1px solid #e7e9fc;
   background: #fff;
 }
 .header__navigation {
@@ -94,7 +91,6 @@ ol {
   color: #434455;
 }
 .header__navigation .header__link:active {
-  border-bottom: 4px solid #404bbf;
 }
 .header__address {
 }
