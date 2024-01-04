@@ -23,6 +23,7 @@ ol {
   letter-spacing: 0.04em;
 }
 .logo {
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   line-height: 1.17;
   font-weight: 700;
@@ -188,6 +189,8 @@ ol {
   text-align: left;
 }
 .footer__logo {
+}
+.footer__logo--color {
   color: #f4f4fd;
 }
 .footer__text {
