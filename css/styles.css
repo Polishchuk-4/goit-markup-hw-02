@@ -33,7 +33,7 @@ ol {
 .title-1 {
   font-size: 56px;
   font-weight: 700;
-  line-height: 1.0714;
+  line-height: 1.07;
   letter-spacing: 1.12px;
 }
 .title-2 {
@@ -56,12 +56,18 @@ ol {
   letter-spacing: 0.32px;
 }
 .button {
+  font-weight: 500;
   border: none;
   font: inherit;
   color: inherit;
   background: #4d5ae5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
 }
-
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+}
 /*-------- header --------*/
 
 .header {
