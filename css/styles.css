@@ -14,6 +14,10 @@ ol {
   text-decoration: none;
   font-style: normal;
 }
+ul,
+ol {
+  list-style: none;
+}
 .link {
   font-size: 12px;
   line-height: 1.333;
@@ -35,38 +39,34 @@ ol {
   background: #fff;
 }
 
-.header-navigation {
+.header__navigation {
 }
-.header-logo {
+.header__logo {
   color: #2e2f42;
 }
-.header-logo--blue {
+.header__logo--blue {
   color: #4d5ae5;
 }
-.header-link {
+.header__link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
-}
-
-/*------ не змінюється колір ------*/
-/* .header-link:hover,
-.header-link:focus {
-  color: #404bbf;
-} */
-.header-navigation .header-link {
   color: #2e2f42;
+}
+.header__link:hover,
+.header__link:focus {
+  color: #404bbf;
+}
+.header__link--weight {
   font-weight: 500;
 }
-.header-address .header-link {
+.header__link--color {
   color: #434455;
 }
-/*------ змінюється колір ------*/
-.header-link:hover,
-.header-link:focus {
-  color: #404bbf;
-}
-.header-link:active {
-  padding-bottom: 20px;
+.header__navigation .header__link:active {
   border-bottom: 4px solid #404bbf;
+}
+.header__address {
+}
+.header__menu {
 }
