@@ -24,10 +24,11 @@ ol {
 }
 .logo {
   font-size: 18px;
-  line-height: 1.3125;
+  line-height: 1.17;
   font-weight: 700;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 .title-1 {
   font-size: 56px;
@@ -64,15 +65,15 @@ ol {
 /*-------- header --------*/
 
 .header {
+  font-family: "Raleway", sans-serif;
   background: #fff;
 }
 .header__navigation {
 }
 .header__logo {
-  color: #2e2f42;
 }
-.header__logo--blue {
-  color: #4d5ae5;
+.header__logo--color {
+  color: #2e2f42;
 }
 .header__link {
   font-size: 16px;
@@ -93,6 +94,7 @@ ol {
 .header__navigation .header__link:active {
 }
 .header__address {
+  font-style: normal;
 }
 .header__menu {
 }
