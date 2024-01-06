@@ -1,10 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
   background: #fff;
 }
 a,
@@ -32,6 +29,7 @@ ol {
   color: #4d5ae5;
 }
 .title-one {
+  color: #fff;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -53,7 +51,7 @@ ol {
   letter-spacing: 0.02em;
 }
 .text {
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 .button {
@@ -62,6 +60,7 @@ ol {
   font: inherit;
   color: inherit;
   background: #4d5ae5;
+  color: #fff;
   letter-spacing: 0.04em;
   font-weight: 500;
   cursor: pointer;
@@ -73,7 +72,6 @@ ol {
 /*-------- header --------*/
 
 .header {
-  font-family: "Raleway", sans-serif;
   background: #fff;
 }
 .header__navigation {
@@ -117,7 +115,6 @@ ol {
 .section-one {
   text-align: center;
   background: #2e2f42;
-  color: #fff;
 }
 .section-one__title {
 }
@@ -176,17 +173,14 @@ ol {
 .section-four__image {
 }
 .section-four__title-three {
-  text-align: left;
 }
 .section-four__text {
-  text-align: left;
 }
 
 /*-------- footer --------*/
 
 .footer {
   background: #2e2f42;
-  text-align: left;
 }
 .footer__logo {
 }
